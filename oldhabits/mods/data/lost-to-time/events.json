@@ -1,0 +1,79 @@
+{
+	"song": {
+		"speed": 3.1,
+		"stage": "bg",
+		"player1": "xeno",
+		"player2": "majin",
+		"player3": null,
+		"events": [
+			[
+				38571.4285714286,
+				[
+					[
+						"Change Character",
+						"bf",
+						"xenoeyes"
+					]
+				]
+			],
+			[
+				41142.8571428572,
+				[
+					[
+						"Change Character",
+						"bf",
+						"xeno"
+					]
+				]
+			],
+			[
+				89142.8571428571,
+				[
+					[
+						"Change Character",
+						"bf",
+						"xenoeyes"
+					]
+				]
+			],
+			[
+				90857.1428571429,
+				[
+					[
+						"Change Character",
+						"bf",
+						"xeno"
+					]
+				]
+			],
+			[
+				92571.4285714286,
+				[
+					[
+						"Change Character",
+						"bf",
+						"xenoeyes"
+					]
+				]
+			],
+			[
+				96000,
+				[
+					[
+						"Change Character",
+						"bf",
+						"xeno"
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": "noteSplashes",
+		"validScore": false,
+		"gfVersion": "gf",
+		"bpm": 140,
+		"arrowSkin": "",
+		"needsVoices": false,
+		"song": "lost-to-time"
+	}
+}

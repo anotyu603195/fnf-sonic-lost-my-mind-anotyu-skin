@@ -1,0 +1,189 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Sonic idle"
+		},
+		{
+			"offsets": [
+				28,
+				9
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Sonic left"
+		},
+		{
+			"offsets": [
+				-9,
+				-7
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Sonic down"
+		},
+		{
+			"offsets": [
+				-10,
+				2
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Sonic up"
+		},
+		{
+			"offsets": [
+				-4,
+				9
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWNmiss",
+			"indices": [],
+			"name": "MISS Sonic down"
+		},
+		{
+			"offsets": [
+				-12,
+				5
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUPmiss",
+			"indices": [],
+			"name": "MISS Sonic up"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				36,
+				7
+			],
+			"anim": "singLEFTmiss",
+			"fps": 24,
+			"name": "MISS Sonic left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-13,
+				6
+			],
+			"anim": "singRIGHTmiss",
+			"fps": 24,
+			"name": "MISS Sonic right",
+			"indices": []
+		},
+		{
+			"offsets": [
+				2,
+				-1
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "firstDeath",
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9
+			],
+			"name": "GAME OVER"
+		},
+		{
+			"offsets": [
+				-2,
+				-9
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "deathLoop",
+			"indices": [],
+			"name": "GAME OVER loop"
+		},
+		{
+			"offsets": [
+				-9,
+				-6
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "deathConfirm",
+			"indices": [],
+			"name": "GAME OVER enter"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-12,
+				5
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Sonic right",
+			"indices": [
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10,
+				11,
+				12
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				7,
+				0
+			],
+			"anim": "GETOUT",
+			"fps": 24,
+			"name": "GETOUT",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/sonic_fwscared",
+	"position": [
+		20,
+		0
+	],
+	"healthicon": "sonic icons",
+	"flip_x": true,
+	"healthbar_colors": [
+		40,
+		66,
+		137
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}
